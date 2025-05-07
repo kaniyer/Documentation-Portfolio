@@ -22,11 +22,12 @@ Explore my collection of documentation work samples, showcasing a range of featu
 - [ HYOK endpoints -  Describes the endpoints required to manage the Key Management Service (KMS) integration for using the Hold Your Own Key (HYOK) capability.](Documentation-Samples/4_HYOK_Endpoints.pdf)
 
 **Proactive Notification**
-- [Proactive Notification - A sample proactive notification created after each release to update customers about new capabilities and enhancements. ](Documentation-Samples/5_ProactiveNotification.pdf)
+- [Proactive Notification - A sample proactive notification created after each release to update customers about new capabilities and enhancements. ]
+- (Documentation-Samples/5_ProactiveNotification.pdf)
 
 **In-App Help Flow**
 - [CMDB Explorer – Viewing CIs and Their Relationships — Demonstrates an in-app help flow (Whatfix) that guides users on how to view Configuration Items (CIs) and their relationships within CMDB Explorer.]
-(Documentation-Samples/6_Viewing_CIs_and_their_relationships_in_CMDB_Explorer_InAppFlow.pdf)
+- (Documentation-Samples/6_Viewing_CIs_and_their_relationships_in_CMDB_Explorer_InAppFlow.pdf)
 
 **Video**
 
