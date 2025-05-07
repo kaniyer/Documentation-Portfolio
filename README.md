@@ -1,6 +1,10 @@
 # Documentation Portfolio- Kanchana Iyer
 
-Welcome to my Documentation Portfolio! I am an experienced technical writer with expertise in user documentation, API guides, in-app notifications, and process innovation. This repository is a collection of my work samples that demonstrate my ability to simplify complex topics, create engaging user experiences, and lead documentation strategies.
+Welcome to my Documentation Portfolio! ..
+I am an experienced technical writer with expertise in creating user documentation, API references, in-app notifications, and video tutorials. ..
+My experience covers the entire content development lifecycle—from planning and authoring to publishing and maintenance. ..
+This repository showcases my work samples, reflecting my ability to create clear, engaging content and lead effective documentation strategies. ..
+
 
 LinkedIn: https://www.linkedin.com/in/kanchana-iyer-8ab08619/
 Email: kanchana.iyer@gmail.com
