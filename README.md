@@ -32,7 +32,7 @@ Explore my collection of documentation work samples, featuring:
 
 **API Documentation**
 
-- [ HYOK endpoints -  Describes an example of using the CMDB REST API to search for Configuration Items (CIs) in BMC Helix CMDB.](Documentation-Samples/4_REST_API.pdf)
+- [ CMDB Rest API -  Describes an example of using the CMDB REST API to search for Configuration Items (CIs) in BMC Helix CMDB.](Documentation-Samples/4_REST_API.pdf)
 
 **Proactive Notification**
 - [Proactive Notification - A sample proactive notification created after each release to update customers about new capabilities and enhancements. ](Documentation-Samples/5_ProactiveNotification.pdf)
