@@ -4,7 +4,7 @@ Welcome to my Documentation Portfolio, where I showcase the expertise and experi
 I have managed end-to-end documentation projects, including release planning, milestone tracking, and feature assignments.  
 My experience includes restructuring legacy documentation, driving process automation, and leading high-impact projects with a focus on quality and efficiency.
 
-# Skills
+## Skills
 I am skilled in creating and delivering:  
 -Feature Documentation  
 -Defect Documentation  
