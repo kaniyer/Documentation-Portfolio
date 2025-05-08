@@ -1,13 +1,23 @@
 # Documentation Portfolio- Kanchana Iyer
 
-Welcome to my Documentation Portfolio!  
-I am an experienced technical writer with expertise in creating user documentation, API references, in-app notifications, and video tutorials.  
-My experience covers the entire content development lifecycle—from planning and authoring to publishing and maintenance.  
-This repository showcases my work samples, reflecting my ability to create clear, engaging content and lead effective documentation strategies.
+Welcome to my Documentation Portfolio, where I showcase the expertise and experience I've built over 20+ years in technical writing and project management. My work focuses on creating clear, user-friendly documentation that enhances product understanding and improves user experience.
+I have managed end-to-end documentation projects, including release planning, milestone tracking, and feature assignments. My experience includes restructuring legacy documentation, driving process automation, and leading high-impact projects with a focus on quality and efficiency.
+I am skilled in creating and delivering:
+-Feature Documentation
+-Defect Documentation
+-Proactive Notifications
+-Graphics & Visuals
+-Videos 
+-In-App Help Flows
 
 # Work Samples
 
-Explore my collection of documentation work samples, showcasing a range of feature documentation, API references, proactive notifications, in-app help flows, and videos:
+Explore my collection of documentation work samples, featuring:
+-Feature Documentation
+-API References
+-Proactive Notifications
+-In-App Help Flows
+-Videos and Visual Content
 
 **Feature Documentation**
 
