@@ -32,7 +32,7 @@ Explore my collection of documentation work samples, featuring:
 
 **API Documentation**
 
-- [ HYOK endpoints -  Describes the endpoints required to manage the Key Management Service (KMS) integration for using the Hold Your Own Key (HYOK) capability.](Documentation-Samples/4_HYOK_Endpoints.pdf)
+- [ HYOK endpoints -  Describes an example of using the CMDB REST API to search for Configuration Items (CIs) in BMC Helix CMDB.](Documentation-Samples/4_REST_API.pdf)
 
 **Proactive Notification**
 - [Proactive Notification - A sample proactive notification created after each release to update customers about new capabilities and enhancements. ](Documentation-Samples/5_ProactiveNotification.pdf)
