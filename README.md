@@ -1,13 +1,16 @@
 # Documentation Portfolio- Kanchana Iyer
 
-Welcome to my Documentation Portfolio, where I showcase the expertise and experience I've built over 20+ years in technical writing and project management. My work focuses on creating clear, user-friendly documentation that enhances product understanding and improves user experience.
-I have managed end-to-end documentation projects, including release planning, milestone tracking, and feature assignments. My experience includes restructuring legacy documentation, driving process automation, and leading high-impact projects with a focus on quality and efficiency.
-I am skilled in creating and delivering:
--Feature Documentation
--Defect Documentation
--Proactive Notifications
--Graphics & Visuals
--Videos 
+Welcome to my Documentation Portfolio, where I showcase the expertise and experience I've built over 20+ years in technical writing and project management. My work focuses on creating clear, user-friendly documentation that enhances product understanding and improves user experience.  
+I have managed end-to-end documentation projects, including release planning, milestone tracking, and feature assignments.  
+My experience includes restructuring legacy documentation, driving process automation, and leading high-impact projects with a focus on quality and efficiency.
+
+# Skills
+I am skilled in creating and delivering:  
+-Feature Documentation  
+-Defect Documentation  
+-Proactive Notifications  
+-Graphics & Visuals  
+-Videos   
 -In-App Help Flows
 
 # Work Samples
